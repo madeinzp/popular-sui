@@ -1,0 +1,9 @@
+{
+  "name": "popular-sui-examples",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@mysten/sui": "^2.0.0"
+  }
+}
